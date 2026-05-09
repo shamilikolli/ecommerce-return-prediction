@@ -117,7 +117,7 @@ pip install -r requirements.txt
 # Place in data/ folder as ecommerce_sales_customer_behavior.csv
 
 # Run notebooks in order
-jupyter notebook notebooks/01_eda.ipynb
+jupyter notebook notebooks/01_EDA.ipynb
 ```
 
 ---
@@ -129,4 +129,4 @@ jupyter notebook notebooks/01_eda.ipynb
 - Class imbalance handling (SMOTE vs Class Weights)
 - Multi-model comparison framework
 - Hyperparameter tuning with Cross Validation
-- Honest result interpretation and documentation
+- Result interpretation and documentation
